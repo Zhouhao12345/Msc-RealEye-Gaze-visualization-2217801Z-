@@ -1,0 +1,8 @@
+Gstreamer 0.10
+
+OpenCV 3.0_dev
+
+Python_ar_marker
+
+Tkinter
+
